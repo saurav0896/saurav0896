@@ -17,12 +17,12 @@ A Web Developer also playing the role of an Automation Developer. My learning ar
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/saurav0896">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saurav0896&layout=compact&theme=dark" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/saurav0896">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=saurav0896&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github stats" />
 </a>
 
