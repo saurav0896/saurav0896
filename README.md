@@ -9,5 +9,5 @@ A Web Developer also playing the role of an Automation Developer. My learning ar
 - 📫 How to reach me: saurav0896@outlook.com
 
 ## Work Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurav0896&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurav0896&layout=compact&theme=dark)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saurav0896&show_icons=true&theme=dark&include_all_commits=true&hide=issues)
