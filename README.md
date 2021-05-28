@@ -8,5 +8,17 @@ A Web Developer also playing the role of an Automation Developer. My learning ar
 - 💬 Happy to help if anything is regarding automation and web development
 - 📫 How to reach me: saurav0896@outlook.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurav0896&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saurav0896&show_icons=true&theme=dark&include_all_commits=true&hide=issues)
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saurav0896&layout=compact&theme=dark" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=saurav0896&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github stats" />
+</a>
+
