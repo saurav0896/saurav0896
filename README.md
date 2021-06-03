@@ -1,5 +1,5 @@
 ## Hello, I am Saurav Singh
-A Web Developer also playing the role of an Automation Developer. My learning areas include Web Development | IT Automation | REST API integration | NodeJS | CI/CD Implementation | DevOps Automation | Cloud Computing | Automation Tool - Ansible , Arago, Stackstorm, Ayehu
+A Web Developer also playing the role of an Automation Developer. My learning areas include Web Development | IT Automation | REST API integration | NodeJS | CI/CD Implementation | DevOps Automation | Cloud Technology (Azure, AWS) | Automation Tool - Ansible , Arago, Stackstorm, Ayehu 
 
 
 - 🔭 I’m currently working on memoryCaching using Redis
