@@ -20,13 +20,16 @@ A Web Developer also playing the role of an Automation Developer. My learning ar
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
- ### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
+
+### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
 <p align="center">
   <a href="https://github.com/saurav0896/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurav0896&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
-  
+
+ 
 ### <h2 align="center">🏆 Github Trophies 🏆<h2/>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
@@ -34,6 +37,7 @@ A Web Developer also playing the role of an Automation Developer. My learning ar
   </a>
 </p>
   
+ 
 ### <h2 align="center">⚙️ Github Stats ⚙️<h2/>   
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=saurav0896&theme=xcode" alt="Iamtripathisatyam" />
@@ -44,7 +48,7 @@ A Web Developer also playing the role of an Automation Developer. My learning ar
 </a>
 
 <a href="https://github.com/saurav0896">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=saurav0896&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github stats" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=saurav0896&show_icons=true&include_all_commits=true&theme=dark" alt="Saurav's github stats" />
 </a>
 
 
