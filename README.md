@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/saurav0896/" target="_blank"> Saurav Singh </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/saurav-singh-08/" target="_blank"> Saurav Singh </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
 A Web Developer also playing the role of an Automation Developer. My learning areas include Web Development | IT Automation | REST API integration | NodeJS | CI/CD Implementation | DevOps Automation | Cloud Technology (Azure, AWS) | Automation Tool - Ansible , Arago, Stackstorm, Ayehu 
@@ -9,12 +9,22 @@ A Web Developer also playing the role of an Automation Developer. My learning ar
 - 👨‍💻 Check out my Website : **<a href="https://www.srvx.co.in" target="_blank">SrvX - Portfolio & Dev Tool</a>**
 
 
+<p align="left">
+    <a href="https://github.com/saurav0896">
+        <img src="https://komarev.com/ghpvc/?username=saurav0896&label=Profile%20views&color=0e75b6&style=flat" alt="saurav0896" />
+    </a>
+    <a href="https://github.com/saurav0896?tab=followers">
+        <img src="https://img.shields.io/github/followers/saurav0896?label=Followers&style=social" alt="followers-count">
+    </a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/saurav-singh-08/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:saurav0896@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://www.instagram.com/boy_next_cubicle"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/@boy_next_cubicle"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-CD201F?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.twitter.com/@boyNextCubicle"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>
 
 ### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
@@ -41,7 +51,8 @@ A Web Developer also playing the role of an Automation Developer. My learning ar
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <br>
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+<img alt="Vuetify" src="https://img.shields.io/badge/vuetify-0080FF?style=for-the-badge&logo=vuetify&logoColor=white"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -59,18 +70,29 @@ A Web Developer also playing the role of an Automation Developer. My learning ar
   <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
 
+<h3 align="left">Cloud Services:</h3>
+<div align="left">
+  <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0080FF?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img alt="AWS" src ="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+</div>
+
+<h3 align="left">Process Automation Tool :</h3>
+<div align="left">
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-CD201F?style=for-the-badge&logo=ansible&logoColor=black"/>
+  <img alt="Ayehu" src ="https://img.shields.io/badge/Ayehu-red?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img alt="StackStorm" src ="https://img.shields.io/badge/StackStorm-4EA94B?style=for-the-badge&logo=react&logoColor=white"/>
+</div>
+
 <h3 align="left">Databases :</h3>
 <div align="left">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
 
 <h3 align="left">Hosting :</h3>
 <div align="left">
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
